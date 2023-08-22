@@ -22,8 +22,8 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <java.version>11</java.version>
-          <sonar.host.url>http://http://3.110.30.22:9000/</sonar.host.url>
-             sqa_6c6555f1732f77bc77e651e9fad81231e48e9aa1
+        <sonar.host.url>http://http://3.110.30.22:9000/</sonar.host.url>
+        sqa_6c6555f1732f77bc77e651e9fad81231e48e9aa1
 
     </properties>
 
