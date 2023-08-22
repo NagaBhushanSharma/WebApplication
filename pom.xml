@@ -24,7 +24,6 @@
         <java.version>11</java.version>
         <sonar.host.url>http://3.110.30.22:9000/</sonar.host.url>
          sqa_40ddea2565e5f0ec639a269b5733458c94eb3ea7
-
     </properties>
 
     <dependencies>
