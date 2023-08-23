@@ -7,6 +7,8 @@ EXPOSE 8081
 # Simply the artifact path
 ARG artifact=target/spring-boot-web.jar
 
+USER root
+
 WORKDIR /opt/app
 
 COPY ${artifact} app.jar
