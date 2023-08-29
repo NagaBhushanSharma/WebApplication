@@ -5,7 +5,7 @@ FROM adoptopenjdk/openjdk11:alpine-jre
 EXPOSE 8081
 
 # Simply the artifact path
-ARG artifact=/var/jenkins_home/workspace/task3/target/spring-boot-web.jar
+ARG artifact=target/spring-boot-web.jar
 
 WORKDIR /opt/app
 
